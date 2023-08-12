@@ -13,7 +13,7 @@ This is a simple implementation of the classic Tic Tac Toe game in C++. The game
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Gufranwaris/T3Tactical.git
    cd T3Tactical
    
 2. Compile the code using a C++ compiler (e.g., g++):
